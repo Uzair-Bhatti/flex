@@ -1,0 +1,62 @@
+body{
+    background-color:rgba(0, 81, 255, 0.986);
+    font-family: 'Cabin', sans-serif;
+}
+.container{
+    display:flex;
+    gap:auto;
+    background-color:rgba(0, 81, 255, 0.986);
+    width: 100px;
+    height: 100px;
+}
+.sectionA{
+    display: grid;
+    margin: 20px 10px 50px 30px;
+    
+}     
+.image1{
+    width: 450px;
+}
+.caption{
+    background-color: blue;
+    display: grid;
+    text-align: center;
+    color: antiquewhite;
+}
+.image2{
+     width: 450px; 
+}
+.caption2{
+    background-color: blue;
+    display: grid;
+    text-align: center; 
+    color: antiquewhite;
+
+}
+.sectionB{
+   
+     width: 10px; 
+}
+.fit{
+    /* background-image: -o-linear-gradient(); */
+    position: absolute;
+    width: 900px;
+    height: 580px;
+}
+.fit2{
+    /* background-image: image(fit); */
+    position: absolute;
+    /* left: 455px; */
+    width: 400px;
+    height: 130px;
+     margin-left: 500px;
+    bottom: 30px;
+}
+.fit2{
+    background-image: none;
+}
+
+
+
+    
+
