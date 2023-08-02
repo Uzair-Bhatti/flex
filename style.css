@@ -5,13 +5,13 @@ body{
 .container{
     display:flex;
     gap:auto;
-    background-color:rgba(0, 81, 255, 0.986);
     width: 100px;
     height: 100px;
 }
 .sectionA{
     display: grid;
     margin: 20px 10px 50px 30px;
+    row-gap: 20px;
 }     
 .image1{
     width: 450px;
@@ -20,6 +20,7 @@ body{
     background-color: blue;
     display: grid;
     text-align: center;
+    width:430px;
     color: antiquewhite;
 }
 .image2{
@@ -43,7 +44,7 @@ body{
     position: absolute;
     width: 400px;
     height: 130px;
-     margin-left: 500px;
+    margin-left: 500px;
     bottom: 30px;
 }
 .fit2{
