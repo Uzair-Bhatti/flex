@@ -12,7 +12,6 @@ body{
 .sectionA{
     display: grid;
     margin: 20px 10px 50px 30px;
-    
 }     
 .image1{
     width: 450px;
@@ -31,10 +30,8 @@ body{
     display: grid;
     text-align: center; 
     color: antiquewhite;
-
 }
 .sectionB{
-   
      width: 10px; 
 }
 .fit{
