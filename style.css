@@ -35,15 +35,12 @@ body{
      width: 10px; 
 }
 .fit{
-    /* background-image: -o-linear-gradient(); */
     position: absolute;
     width: 900px;
     height: 580px;
 }
 .fit2{
-    /* background-image: image(fit); */
     position: absolute;
-    /* left: 455px; */
     width: 400px;
     height: 130px;
      margin-left: 500px;
